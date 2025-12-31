@@ -1,0 +1,22 @@
+body{
+background-color:#E6F0F3;
+}
+.mydiv {
+      width: 1120px;
+      height:500px;
+      border: 2px solid black;
+      padding: 25px;
+      border-radius: 15px;
+      background-color:#FFFDD0;
+    }
+nav {
+  display: flex;
+  justify-content: right ;
+  align-items: center;
+  gap: 75px; 
+}
+.mydiv1 {
+    text-align: left;
+    text-size:10px;
+}
+
